@@ -1,5 +1,6 @@
-install.packages("tibble")
+install.packages("usethis")
 library(sf)
+library(usethis)
 
 comunas <- read_sf("n:/Dashboard PAS 150/COMUNAS/COMUNAS_v1.shp")
 
