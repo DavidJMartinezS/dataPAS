@@ -26,7 +26,7 @@ Puedes descargar el repositorio dataPAS desde [GitHub](https://github.com/) con 
 # install.packages("devtools")
 devtools::install_github("DavidJMartinezS/dataPAS")
 ```
-# Ejemplo
+## Ejemplo
 
 Puedes acceder a los datos de la siguente forma:
 
