@@ -4,8 +4,8 @@ Version: 0.0.0.9000
 Authors@R: 
     person("David", "Martínez", , "david.tinez1@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0001-9811-799X"))
-Description: Paquete con datos espaciales de chile. Creado con el fin de usarlos en los shinydashboard de los PAS (Permisos Ambientales Sectoriales)
-License: MIT + file LICENSE
+Description: Paquete con datos espaciales de chile. Creado con el fin de usarlos en los shinydashboard de los PAS (Permisos Ambientales Sectoriales).
+License: MIT + file LICENSE.
 Encoding: UTF-8
 Language: es
 Roxygen: list(markdown = TRUE)
